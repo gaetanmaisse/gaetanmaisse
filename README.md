@@ -2,7 +2,7 @@
 
 I've seen too many freelancers, founders, and office managers lose sleep over unpaid invoices. Or worse, damage client relationships just trying to get paid. After 10+ years building software for others, I decided to tackle this one myself.
 
-That's why I'm building [**Yetty**](https://yetty.framer.website/).
+That's why I'm building [**Yetty**](https://www.linkedin.com/company/getyetty).
 
 ---
 
@@ -10,7 +10,7 @@ That's why I'm building [**Yetty**](https://yetty.framer.website/).
 
 ### Building Yetty
 
-<a href="https://yetty.framer.website/">
+<a href="https://www.linkedin.com/company/getyetty">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/yetty-logo-light.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/yetty-logo-dark.svg">
@@ -20,7 +20,7 @@ That's why I'm building [**Yetty**](https://yetty.framer.website/).
 
 An invoice follow-up tool that's smart, human, and kind. It reduces payment delays by 40%, saves 80% of follow-up time, and prevents 90% of disputes. No debt collectors, no awkward emails. Just the right message, at the right time, with the right tone.
 
-[Discover Yetty →](https://yetty.framer.website/)
+[Discover Yetty →](https://www.linkedin.com/company/getyetty)
 
 ### Shaping Storybook
 
@@ -58,7 +58,7 @@ Building the next generation of engineers is just as important as building produ
     <img src="https://img.shields.io/badge/Bluesky-151824?style=for-the-badge&logo=bluesky&logoColor=77BBFF" alt="Bluesky">
   </a>
   &nbsp;
-  <a href="https://yetty.framer.website/">
+  <a href="https://www.linkedin.com/company/getyetty">
     <img src="https://img.shields.io/badge/Yetty-151824?style=for-the-badge&logoColor=77BBFF" alt="Yetty">
   </a>
 </p>
