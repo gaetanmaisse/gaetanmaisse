@@ -1,0 +1,6 @@
+<svg width="900" height="200" viewBox="0 0 900 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="200" rx="12" fill="#E4F1FF"/>
+  <text x="60" y="85" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="42" font-weight="700" fill="#151824">Gaetan Maisse</text>
+  <text x="60" y="125" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="20" fill="#2169B1">Founder @ Yetty</text>
+  <text x="60" y="160" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="16" fill="#54A4F3" opacity="0.8">Engineer  ·  Teacher  ·  Open-Source Contributor</text>
+</svg>
